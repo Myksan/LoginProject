@@ -9,15 +9,9 @@ package loginproject;
  *
  * @author vitaly94
  */
-public class LoginProject {
+public class Personas {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-        //Cambios de ejemplo
-        
+    public Personas() {
     }
     
 }
