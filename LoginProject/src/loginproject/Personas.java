@@ -12,6 +12,7 @@ package loginproject;
 public class Personas {
 
     public Personas() {
+        //crea algo nuevo!!
     }
     
 }
